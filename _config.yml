@@ -41,3 +41,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Default Setting of global varialbes
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
+      author: "hero4earth"
